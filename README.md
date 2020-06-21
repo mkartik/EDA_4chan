@@ -26,3 +26,5 @@ Vizualize and get insights on the desired channel posts/comments using
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkartik/EDA_4chan/blob/master/exploratory_data_analysis.ipynb)  [Visualization](https://github.com/mkartik/EDA_4chan/blob/master/exploratory_data_analysis.ipynb) 
 
+## References
+- [4chan API](https://github.com/4chan/4chan-API)
