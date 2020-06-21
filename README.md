@@ -2,8 +2,8 @@
 Exploratory Data Analysis on the posts/comments on desired 4chan channels (Technology, Television, Literature, Cooking) and generate insights:
 * Most common words in a channel
 * Message count per thread (OP/ excluding OP) [OP- Original Post]
-* Frequency of post per channel
-* Unique words that differentiate a channel
+* Frequency of posts during the day (per channel)
+* Unique words that differentiate each channel
 
 Built a Naive-Bayes Classifier to predict the 4chan channel, given a post/comment. 
 
