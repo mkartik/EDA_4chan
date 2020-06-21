@@ -1,1 +1,1 @@
-# EDA_4chan
+# Exploratory Data Analysis [4chan]
